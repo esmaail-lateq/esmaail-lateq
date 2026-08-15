@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<!-- Animated Status Indicators & Badges -->
+<!-- Animated Engineering Badges & Status Strip -->
 <p align="center">
   <a href="https://play.google.com/store/apps/developer?id=JUSAIM+DEV" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-6%2B_Live_Apps-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live Apps" />
@@ -71,29 +71,32 @@
 ---
 
 <!-- ======================================================== -->
-<!-- 👨‍💻 ABOUT ME & EXECUTIVE ENGINEERING BIO                 -->
+<!-- 🖥️ TERMINAL SYSTEM & EXECUTIVE ENGINEERING SPEC          -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=⚡%20Executive%20Engineering%20Bio&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Bio Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=⚡%20Executive%20Engineering%20Spec&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Bio Banner" />
 </p>
 
 <table align="center" width="100%">
   <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="120" alt="Animated Laptop" /><br/>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=38BDF8&center=true&vCenter=true&width=250&lines=Writing+Clean+Code;Engineering+Systems;Building+Mobile+Apps" alt="Sub Typing" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="110" alt="Animated Laptop" /><br/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=13&pause=1000&color=38BDF8&center=true&vCenter=true&width=230&lines=neofetch+--esmail;systemctl+status+active;git+push+--legendary" alt="Sub Typing" />
     </td>
-    <td width="65%" valign="top">
+    <td width="70%" valign="top">
 
-```yaml
-developer:
-  name: Esmail Al-Maweri
-  title: Senior Full-Stack & Mobile Solutions Architect
-  brand: JUSAIM DEV
-  core_stack: [Flutter, Dart, Laravel 11, PHP 8+, Redis, MySQL, Docker]
-  architectures: [Clean Architecture, Domain-Driven Design, SOLID, Hardware-Bound Security]
-  compliance: [Android 15 (16KB Page Size Aligned), Google Play Policy Standards]
-  published_apps: 6+ Production Applications live on Google Play Store
+```bash
+esmail@workstation ~ % neofetch
+──────────────────────────────────────────────────────────
+OS            : macOS / Linux Enterprise (x86_64 / arm64)
+ENGINEER      : Esmail Al-Maweri (JUSAIM DEV)
+SPECIALTY     : Flutter Mobile Architect & Laravel Backend Specialist
+COMPLIANCE    : Android 15 (16KB Page Size Aligned) & Google Play Policies
+STANDARDS     : Clean Architecture, SOLID, DDD, Hardware-Bound Security
+FLAGSHIPS     : 6+ Production Apps Live on Google Play Store
+POS PROTOCOL  : Strict Device-ID Hardware Shift-Locking System
+STATUS        : 🟢 System Operational • 100% Uptime
+──────────────────────────────────────────────────────────
 ```
 
     </td>
@@ -233,10 +236,10 @@ developer:
 ---
 
 <!-- ======================================================== -->
-<!-- 🐍 CONTRIBUTION SNAKE GAME & ACTIVITY                    -->
+<!-- 🐍 CONTRIBUTION SNAKE GAME & 3D ISOMETRIC CALENDAR       -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🐍%20Live%20Contribution%20Activity%20Stream&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Snake Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🐍%20Contribution%20Stream%20%26%203D%20Activity&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Snake Banner" />
 </p>
 
 <!-- Live Animated Cyber Neon Snake Eating Commits -->
@@ -245,6 +248,15 @@ developer:
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<!-- Isometric 3D Contribution Calendar -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="GitHub 3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
 </p>
 
@@ -276,8 +288,13 @@ developer:
 ---
 
 <!-- ======================================================== -->
-<!-- 💬 DAILY INSPIRATION & DEV QUOTE                         -->
+<!-- 🎧 CODING VIBES & DAILY DEV QUOTE                        -->
 <!-- ======================================================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🎧%20Coding%20Vibes%20%26%20Daily%20Inspiration&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Vibes Banner" />
+</p>
+
+<!-- Dynamic Animated Daily Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>

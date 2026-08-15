@@ -66,7 +66,6 @@
 
 * 💼 **Work:** Independent Full-Stack Developer at **JUSAIM DEV**, architecting custom enterprise solutions and deploying production-ready applications.
 * 👯 **I’m looking to collaborate on:** Open-source Flutter packages, scalable Laravel architectures, and innovative mobile solutions.
-* 🤝 **I’m looking for help with:** Advanced DevOps configurations and automated CI/CD pipelines for mobile app deployment.
 * 🌱 **I’m currently learning:** Deep-tier system optimization, 16KB page size memory alignment for modern Android compatibility, and cutting-edge mobile architecture standards.
 * 💬 **Ask me about:** **Laravel Framework, Flutter Cross-Platform Development, Custom Middleware, and Android SDK Compliance.**
 * 👨‍💻 **All of my projects are available at:** [Google Play Console - JUSAIM DEV](https://play.google.com/store/apps/developer?id=JUSAIM+DEV)
@@ -74,20 +73,12 @@
 
 ---
 
-### 🐍 My Contributions Animation
+### 📈 My GitHub Activity & Stats
 
-<!-- GitHub Contribution Snake Animation -->
+<!-- Live Activity Graph (No Actions Required) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=esmaail-lateq&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
-
----
-
-### 📈 GitHub Analytics & Performance Dashboard
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=esmaail-lateq&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160" />

@@ -2,7 +2,7 @@
 <!-- 🌟 HEADER SECTION: Dynamic Animated Wave & Title Banner   -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=230&section=header&text=ESMAIL%20AL-MAWERI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Mobile%20Architect%20%7C%20Flutter%20%E2%80%A2%20Laravel%20%E2%80%A2%20Cloud%20Systems&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=230&section=header&text=ESMAIL%20AL-MAWERI&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Mobile%20Architect%20%7C%20Flutter%20%E2%80%A2%20Laravel%20%E2%80%A2%20Cloud%20Systems&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Dynamic Multi-Line Typing Animation -->
@@ -41,13 +41,16 @@
   </a>
 </p>
 
----
+<!-- Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
 <!-- ======================================================== -->
 <!-- 🌐 CONNECT & SOCIAL HUB                                 -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🤝%20Connect%20%26%20Collaborate&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Connect Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🤝%20Connect%20%26%20Collaborate&fontSize=22&fontColor=00D2FF&height=60&animation=fadeIn" width="100%" alt="Connect Banner" />
 </p>
 
 <p align="center">
@@ -68,13 +71,16 @@
   </a>
 </p>
 
----
+<!-- Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
 <!-- ======================================================== -->
 <!-- 🖥️ TERMINAL SYSTEM & EXECUTIVE ENGINEERING SPEC          -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=⚡%20Executive%20Engineering%20Spec&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Bio Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=⚡%20Executive%20Engineering%20Spec&fontSize=22&fontColor=00D2FF&height=60&animation=fadeIn" width="100%" alt="Bio Banner" />
 </p>
 
 <table align="center" width="100%">
@@ -109,13 +115,20 @@ STATUS        : 🟢 System Operational • 100% Uptime
 * 📱 **Modern Android SDK Standard:** Strict alignment with **16KB memory page sizes** and low-latency native runtime performance.
 * 💡 **Engineering Motto:** *"Clean code is not just an aesthetic choice; it is an architectural commitment to reliability, performance, and scalability."*
 
----
+<!-- Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
 <!-- ======================================================== -->
 <!-- 🛠️ TECH STACK & ARSENAL MATRIX                          -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🛠️%20Tech%20Arsenal%20%26%20Stack%20Matrix&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Tech Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🛠️%20Tech%20Arsenal%20%26%20Stack%20Matrix&fontSize=22&fontColor=00D2FF&height=60&animation=fadeIn" width="100%" alt="Tech Banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="45" alt="Animated Wrench" />
 </p>
 
 <div align="center">
@@ -142,15 +155,21 @@ STATUS        : 🟢 System Operational • 100% Uptime
 
 </div>
 
----
+<!-- Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
 <!-- ======================================================== -->
 <!-- 🚀 FEATURED PRODUCTION APPS & FLAGSHIP ARCHITECTURES     -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🚀%20Featured%20Production%20Apps%20%26%20Flagships&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Apps Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🚀%20Featured%20Production%20Apps%20%26%20Flagships&fontSize=22&fontColor=00D2FF&height=60&animation=fadeIn" width="100%" alt="Apps Banner" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="45" alt="Animated Rocket" />
+</p>
 <p align="center">
   <i>A curated selection of commercial and enterprise applications engineered and published live on the Google Play Store.</i>
 </p>
@@ -233,13 +252,20 @@ STATUS        : 🟢 System Operational • 100% Uptime
   </tr>
 </table>
 
----
+<!-- Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
 <!-- ======================================================== -->
 <!-- 🐍 CONTRIBUTION SNAKE GAME & 3D ISOMETRIC CALENDAR       -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🐍%20Contribution%20Stream%20%26%203D%20Activity&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Snake Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🐍%20Contribution%20Stream%20%26%203D%20Activity&fontSize=22&fontColor=00D2FF&height=60&animation=fadeIn" width="100%" alt="Snake Banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="45" alt="Animated Snake" />
 </p>
 
 <!-- Live Animated Cyber Neon Snake Eating Commits -->
@@ -265,13 +291,20 @@ STATUS        : 🟢 System Operational • 100% Uptime
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=esmaail-lateq&bg_color=0D1117&color=00D2FF&line=00D2FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
----
+<!-- Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
 <!-- ======================================================== -->
 <!-- 📈 GITHUB METRICS & ANALYTICS DASHBOARD                  -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=📊%20GitHub%20Metrics%20%26%20Analytics%20Dashboard&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Metrics Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=📊%20GitHub%20Metrics%20%26%20Analytics%20Dashboard&fontSize=22&fontColor=00D2FF&height=60&animation=fadeIn" width="100%" alt="Metrics Banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="45" alt="Animated Chart" />
 </p>
 
 <!-- Animated Flame Streak & Stats -->
@@ -285,21 +318,26 @@ STATUS        : 🟢 System Operational • 100% Uptime
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaail-lateq&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=9BA1A6" alt="Top Languages" height="165" />
 </p>
 
----
+<!-- Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Divider" />
+</p>
 
 <!-- ======================================================== -->
 <!-- 🎧 CODING VIBES & DAILY DEV QUOTE                        -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🎧%20Coding%20Vibes%20%26%20Daily%20Inspiration&fontSize=22&fontColor=00D2FF&height=60" width="100%" alt="Vibes Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🎧%20Coding%20Vibes%20%26%20Daily%20Inspiration&fontSize=22&fontColor=00D2FF&height=60&animation=fadeIn" width="100%" alt="Vibes Banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="45" alt="Animated Headphone" />
 </p>
 
 <!-- Dynamic Animated Daily Dev Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
-
----
 
 <!-- ======================================================== -->
 <!-- 🌊 FOOTER SECTION: Animated Wave Banner                  -->

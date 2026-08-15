@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm ESMAIL AL-MAWERI</h1>
-<h3 align="center">Full-Stack Engineer with a proven track record of developing scalable backend architectures and cross-platform mobile apps. Proficient in optimizing server-side workflows using Laravel (custom middleware, secure database migrations, dependency tuning) and engineering fluid, responsive frontends via Flutter. I excel at implementing strict business logic—such as device-verified state management—and resolving intricate production bugs while ensuring applications meet rigorous performance and platform compliance guidelines.</h3>
+
+<!-- Typing Animation for Subtitle -->
+<p align="center">
+  <a href="https://github.com/esmaail-lateq">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;Flutter+%26+Laravel+Expert;Building+Scalable+Mobile+%26+SaaS+Apps;Optimizing+Server-Side+Workflows" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=esmaail-lateq&label=Profile%20views&color=0e75b6&style=flat" alt="esmaail-lateq" /> 
+  <img src="https://komarev.com/ghpvc/?username=esmaail-lateq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=esmaail-lateq" alt="esmaail-lateq" />
+    <img src="https://github-profile-trophy.vercel.app/?username=esmaail-lateq&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a> 
 </p>
 
@@ -15,45 +21,22 @@
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/esmail-almaweri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esmail-almaweri" height="32" width="42" /></a>
-  <a href="https://instagram.com/esmaail.mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esmaail.mohammed" height="32" width="42" /></a>
-  <a href="https://www.behance.net/esmaail almawri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="esmaail almawri" height="32" width="42" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/esmail-almaweri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/esmaail.mohammed" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.behance.net/esmaailalmawri" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="mailto:esmaail.m.almaweri@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-* 📬 **Direct Email:** esmaail.m.almaweri@gmail.com
 
 ---
 
 ### 🛠️ Languages and Tools
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+<!-- Animated and Uniform Skill Icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=android,flutter,dart,php,firebase,mysql,postgres,redis,bootstrap,graphql,nodejs,vue,postman,git,docker,gcp,linux,python,swift,html,illustrator,ps,xd&perline=12" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
@@ -91,13 +74,26 @@
 
 ---
 
+### 🐍 My Contributions Animation
+
+<!-- GitHub Contribution Snake Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/esmaail-lateq/esmaail-lateq/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 ### 📈 GitHub Analytics & Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esmaail-lateq&show_icons=true&locale=en&theme=dark" alt="esmaail-lateq" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmaail-lateq&theme=dark" alt="esmaail-lateq" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esmaail-lateq&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmaail-lateq&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaail-lateq&show_icons=true&locale=en&layout=compact&theme=dark" alt="esmaail-lateq" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esmaail-lateq&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="160" />
 </p>

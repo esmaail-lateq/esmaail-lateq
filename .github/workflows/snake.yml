@@ -23,13 +23,46 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Pick Random Colors
+        id: random-color
+        run: |
+          THEMES_DARK=(
+            "snake=%2300D2FF|dots=%23161B22,%23033A59,%2304689B,%230E75B6,%2300D2FF" # Cyan
+            "snake=%2300FF41|dots=%23161B22,%23003B00,%23008F11,%2300FF41,%2339FF14" # Green
+            "snake=%23B14AED|dots=%23161B22,%233B0059,%235C008B,%238A00D4,%23B14AED" # Purple
+            "snake=%23FF3333|dots=%23161B22,%234D0000,%238B0000,%23CC0000,%23FF3333" # Red
+            "snake=%23FF5E3A|dots=%23161B22,%23591400,%238C2300,%23C73700,%23FF5E3A" # Orange
+            "snake=%23FFD700|dots=%23161B22,%23594B00,%238C7600,%23C7A800,%23FFD700" # Gold
+          )
+          THEMES_LIGHT=(
+            "snake=%230E75B6|dots=%23ebedf0,%23b6e3ff,%2360a5fa,%232563eb,%231d4ed8" # Cyan
+            "snake=%23008F11|dots=%23ebedf0,%23a7f3d0,%2334d399,%2310b981,%23059669" # Green
+            "snake=%238A00D4|dots=%23ebedf0,%23e9d5ff,%23c084fc,%239333ea,%237e22ce" # Purple
+            "snake=%23CC0000|dots=%23ebedf0,%23fecaca,%23f87171,%23ef4444,%23dc2626" # Red
+            "snake=%23C73700|dots=%23ebedf0,%23fed7aa,%23fb923c,%23f97316,%23ea580c" # Orange
+            "snake=%23B8860B|dots=%23ebedf0,%23fef08a,%23facc15,%23eab308,%23ca8a04" # Gold
+          )
+          RANDOM_INDEX=$((RANDOM % 6))
+          
+          # Extract values
+          DARK_SNAKE=$(echo ${THEMES_DARK[$RANDOM_INDEX]} | cut -d'|' -f1 | cut -d'=' -f2)
+          DARK_DOTS=$(echo ${THEMES_DARK[$RANDOM_INDEX]} | cut -d'|' -f2 | cut -d'=' -f2)
+          
+          LIGHT_SNAKE=$(echo ${THEMES_LIGHT[$RANDOM_INDEX]} | cut -d'|' -f1 | cut -d'=' -f2)
+          LIGHT_DOTS=$(echo ${THEMES_LIGHT[$RANDOM_INDEX]} | cut -d'|' -f2 | cut -d'=' -f2)
+          
+          echo "DARK_SNAKE=$DARK_SNAKE" >> $GITHUB_ENV
+          echo "DARK_DOTS=$DARK_DOTS" >> $GITHUB_ENV
+          echo "LIGHT_SNAKE=$LIGHT_SNAKE" >> $GITHUB_ENV
+          echo "LIGHT_DOTS=$LIGHT_DOTS" >> $GITHUB_ENV
+
       - name: Generate contribution snake SVGs with Custom Theme
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#0E75B6&color_dots=#ebedf0,#b6e3ff,#60a5fa,#2563eb,#1d4ed8
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00D2FF&color_dots=#161B22,#033A59,#04689B,#0E75B6,#00D2FF
+            dist/github-contribution-grid-snake.svg?color_snake=${{ env.LIGHT_SNAKE }}&color_dots=${{ env.LIGHT_DOTS }}
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=${{ env.DARK_SNAKE }}&color_dots=${{ env.DARK_DOTS }}
 
       - name: Deploy snake SVGs to output branch
         run: |

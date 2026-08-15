@@ -2,14 +2,24 @@
 <!-- 🌟 HEADER SECTION: Dynamic Animated Wave & Title Banner   -->
 <!-- ======================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=ESMAIL%20AL-MAWERI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Mobile%20Architect%20%7C%20Flutter%20%E2%80%A2%20Laravel%20%E2%80%A2%20Cloud%20Systems&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=230&section=header&text=ESMAIL%20AL-MAWERI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20%26%20Mobile%20Architect%20%7C%20Flutter%20%E2%80%A2%20Laravel%20%E2%80%A2%20Cloud%20Systems&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Typing Dynamic Taglines -->
 <p align="center">
   <a href="https://github.com/esmaail-lateq">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D2FF&center=true&vCenter=true&width=850&lines=Full-Stack+%26+Mobile+Solutions+Architect;Flutter+%26+Native+Android+Engineering+Expert;Scalable+Laravel+Backends+%26+Microservices;Enterprise+POS+%26+Realtime+Shift-Locking+Systems;16KB+Page+Size+Alignment+%26+Deep+Performance;Obsessed+with+Clean+Architecture+%26+SOLID+Principles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00D2FF&center=true&vCenter=true&width=880&lines=Full-Stack+%26+Mobile+Solutions+Architect;Flutter+%26+Native+Android+Engineering+Expert;Scalable+Laravel+Backends+%26+Microservices;Architecting+POS+%26+Realtime+Shift-Locking+Systems;16KB+Page+Size+Alignment+%26+Deep+Performance;CAD+%26+Spatial+Layout+Engines+on+Mobile;Obsessed+with+Clean+Architecture+%26+SOLID+Principles" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Quick Engineering Highlights & Metric Strip -->
+<p align="center">
+  <a href="https://play.google.com/store/apps/developer?id=JUSAIM+DEV" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Play-6%2B_Live_Apps-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live Apps" />
+  </a>
+  <img src="https://img.shields.io/badge/Android_15-16KB_Page_Aligned-007ACC?style=for-the-badge&logo=android&logoColor=white" alt="16KB Page Aligned" />
+  <img src="https://img.shields.io/badge/Security-Shift--Lock_POS_Protocol-E0234E?style=for-the-badge&logo=shield&logoColor=white" alt="Shift-Lock Protocol" />
+  <img src="https://img.shields.io/badge/Architecture-Clean_%26_SOLID-blueviolet?style=for-the-badge&logo=blueprint&logoColor=white" alt="Clean Architecture" />
 </p>
 
 <!-- Live Badges & Profile Views -->
@@ -20,7 +30,7 @@
   <a href="https://play.google.com/store/apps/developer?id=JUSAIM+DEV" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-JUSAIM_DEV-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store Developer" />
   </a>
-  <img src="https://img.shields.io/badge/Architecture-Clean_%26_SOLID-blueviolet?style=flat-square&logo=blueprint&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/Status-Available_for_High--Impact_Projects-success?style=flat-square" alt="Available" />
   <img src="https://img.shields.io/badge/Location-Yemen%20%7C%20Remote-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -60,33 +70,35 @@
 <!-- ======================================================== -->
 <!-- 👨‍💻 ABOUT ME & ENGINEERING PHILOSOPHY                     -->
 <!-- ======================================================== -->
-### ⚡ About Me & Technical Vision
+### ⚡ Executive Engineering Bio
 
 ```yaml
-name: Esmail Al-Maweri
-role: Senior Full-Stack & Mobile Engineer
-company: JUSAIM DEV
-core_specialization: Flutter Mobile Development & Laravel Enterprise Backends
-engineering_standards: Clean Architecture, SOLID Principles, 16KB Page Size Android Alignment
-current_focus: Distributed POS Architectures, High-Performance Microservices & Offline-first Sync
+developer:
+  name: Esmail Al-Maweri
+  title: Senior Full-Stack & Mobile Solutions Architect
+  brand: JUSAIM DEV
+  core_stack: [Flutter, Dart, Laravel 11, PHP 8+, Redis, MySQL, Docker]
+  architectures: [Clean Architecture, Domain-Driven Design, SOLID, Hardware-Bound Security]
+  compliance: [Android 15 (16KB Page Size Aligned), Google Play Policy Standards]
+  published_apps: 6+ Production Applications live on Google Play Store
 ```
 
-* 🚀 **Engineering Focus:** Crafting production-ready cross-platform mobile apps (**Flutter/Dart**) and resilient server-side microservices (**Laravel/PHP/Node.js**).
-* 🛡️ **Security & POS Protocol:** Creator of the **Strict Device-ID Shift-Locking System** for enterprise POS systems, preventing concurrent shift overlaps and securing offline transaction pipelines.
-* 📱 **Native Compatibility:** Actively engineering compliance with **16KB memory page alignment** for modern Android 15+ devices and deep SDK performance profiling.
-* 💼 **Production Track Record:** Architected and published multiple commercial applications live on the **Google Play Store** serving active business users.
-* 💡 **Philosophy:** *"Simplicity in design, robustness in architecture, zero compromises on code quality."*
+* 🚀 **Full-Stack & Mobile Craftsmanship:** Specializing in building enterprise-grade mobile applications with **Flutter & Dart**, backed by resilient, scalable backends powered by **Laravel, Redis, and Microservices**.
+* 📐 **CAD & Spatial Math Engines:** Engineered dynamic 2D architectural floor plan generators and spatial calculators with automated PDF engineering report generation.
+* 🛡️ **Proprietary POS Security Architecture:** Designed and implemented the **Strict Device-ID Shift-Locking Protocol** preventing overlapping cashier shifts across POS hardware terminals.
+* 📱 **Modern Android SDK Standard:** Strict alignment with **16KB memory page sizes** and low-latency native runtime performance.
+* 💡 **Engineering Motto:** *"Clean code is not just an aesthetic choice; it is an architectural commitment to reliability, performance, and scalability."*
 
 ---
 
 <!-- ======================================================== -->
 <!-- 🛠️ TECH STACK & ARSENAL MATRIX                          -->
 <!-- ======================================================== -->
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Arsenal & Stack Matrix
 
 <div align="center">
 
-#### 📱 Mobile & Cross-Platform
+#### 📱 Mobile, CAD & Cross-Platform
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,dart,android,swift,kotlin,firebase,sqlite&perline=7" alt="Mobile Stack" />
 </a>
@@ -111,48 +123,87 @@ current_focus: Distributed POS Architectures, High-Performance Microservices & O
 ---
 
 <!-- ======================================================== -->
-<!-- 🚀 FEATURED PRODUCTION APPS & ARCHITECTURE CASE STUDIES  -->
+<!-- 🚀 FEATURED PRODUCTION APPS & FLAGSHIP ARCHITECTURES     -->
 <!-- ======================================================== -->
-### 🚀 Featured Production Apps & Flagship Architectures
+### 🚀 Featured Production Apps & Flagship Showcase
+
+<p align="center">
+  <i>A curated selection of commercial and enterprise applications engineered and published live on the Google Play Store.</i>
+</p>
 
 <table>
+  <!-- ROW 1: Hospitality Ecosystem -->
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">📱 vidSnap</h4>
+      <h4 align="center">🏨 الفندق اليمني (Yemeni Hotel — Guests)</h4>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live_on_Google_Play-success?style=flat-square&logo=googleplay" alt="Status" />
+        <a href="https://play.google.com/store/apps/details?id=com.hotelguests.app.hotelguests" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-Install_App-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" />
+        </a>
+        <img src="https://img.shields.io/badge/Package-com.hotelguests.app.hotelguests-informational?style=flat-square" alt="Package" />
+      </p>
+      <p><b>Overview:</b> Comprehensive hospitality guest booking platform. Enables interactive room exploration, real-time booking pipelines, geolocation hotel mapping, and streamlined check-in workflows.</p>
+      <p><b>Tech Stack:</b> <code>Flutter</code> • <code>Laravel API</code> • <code>Google Maps SDK</code> • <code>Sanctum Auth</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🏢 الفندق اليمني لملاك الفنادق (Owners Suite)</h4>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.yemenihotel.owner" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-Install_App-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" />
+        </a>
+        <img src="https://img.shields.io/badge/Package-com.yemenihotel.owner-informational?style=flat-square" alt="Package" />
+      </p>
+      <p><b>Overview:</b> Enterprise hotel operations management suite. Features complex room reservation matrices, occupancy rate calculations, dynamic pricing tiers, and financial reporting dashboards.</p>
+      <p><b>Tech Stack:</b> <code>Flutter</code> • <code>Laravel Backend</code> • <code>Redis Caching</code> • <code>FCM Notifications</code></p>
+    </td>
+  </tr>
+
+  <!-- ROW 2: Engineering/Inspection & SaaS POS -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">📐 فحص مباني ومخططات معمارية (Building Inspection)</h4>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.bi.ersei" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-Install_App-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" />
+        </a>
+        <img src="https://img.shields.io/badge/Package-com.bi.ersei-informational?style=flat-square" alt="Package" />
+      </p>
+      <p><b>Overview:</b> Advanced civil & architectural inspection app. Features dynamic 2D floor plan generation, structural area computation, field inspection workflows, and automated PDF engineering report synthesis.</p>
+      <p><b>Tech Stack:</b> <code>Flutter</code> • <code>Custom 2D Canvas</code> • <code>PDF Generator</code> • <code>SQLite Engine</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">💳 My Point | نقاطي (SaaS & Loyalty POS)</h4>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/details?id=com.jusaim.sass" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-Install_App-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" />
+        </a>
+        <img src="https://img.shields.io/badge/Package-com.jusaim.sass-informational?style=flat-square" alt="Package" />
+      </p>
+      <p><b>Overview:</b> Multi-tenant SaaS Point of Sale (POS) and customer loyalty system. Built for seamless merchant transactions, secure token authentication, and live multi-branch inventory tracking.</p>
+      <p><b>Tech Stack:</b> <code>Flutter</code> • <code>Laravel REST API</code> • <code>MySQL</code> • <code>Sanctum</code></p>
+    </td>
+  </tr>
+
+  <!-- ROW 3: Media Processing & Strict Security Engine -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">📱 vidSnap (Multimedia Processing)</h4>
+      <p align="center">
+        <a href="https://play.google.com/store/apps/developer?id=JUSAIM+DEV" target="_blank">
+          <img src="https://img.shields.io/badge/Google_Play-Production_Live-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Play Store" />
+        </a>
         <img src="https://img.shields.io/badge/Package-com.vidsnap__app-informational?style=flat-square" alt="Package" />
       </p>
-      <p><b>Overview:</b> Production-grade multimedia processing mobile app built with Flutter. Optimized for high-throughput media parsing, strict Google Play data safety compliance, and low-latency storage access workflows.</p>
+      <p><b>Overview:</b> High-throughput media parsing and video utility mobile app. Engineered strictly for low-latency file pipelines, native storage framework access, and Google Play Data Safety compliance.</p>
       <p><b>Tech Stack:</b> <code>Flutter</code> • <code>Dart</code> • <code>Android NDK</code> • <code>Firebase</code></p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">💳 My Point | نقاطي</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live_SaaS_Suite-blue?style=flat-square&logo=googleplay" alt="Status" />
-        <img src="https://img.shields.io/badge/Package-com.jusaim.sass-informational?style=flat-square" alt="Package" />
-      </p>
-      <p><b>Overview:</b> Advanced SaaS Point of Sale (POS) and merchant loyalty ecosystem. Features robust token authentication workflows, multi-tenant billing logic, and verified store compliance.</p>
-      <p><b>Tech Stack:</b> <code>Flutter</code> • <code>Laravel API</code> • <code>MySQL</code> • <code>Sanctum</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">✨ Photons</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Production_Live-brightgreen?style=flat-square&logo=googleplay" alt="Status" />
-        <img src="https://img.shields.io/badge/Package-com.photons.photons-informational?style=flat-square" alt="Package" />
-      </p>
-      <p><b>Overview:</b> High-performance interactive mobile application adhering strictly to modern target API policies, adaptive screen scaling, and frictionless user flows.</p>
-      <p><b>Tech Stack:</b> <code>Flutter</code> • <code>Clean Architecture</code> • <code>Bloc/Cubit</code> • <code>REST API</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">🔒 Hisabati POS Shift-Locking Core</h4>
+      <h4 align="center">🔒 Hisabati (حساباتي) — Strict POS Shift-Locking</h4>
       <p align="center">
         <img src="https://img.shields.io/badge/Category-Proprietary_Engine-orange?style=flat-square&logo=shield" alt="Category" />
         <img src="https://img.shields.io/badge/Architecture-Hardware_ID_Bound-red?style=flat-square" alt="Architecture" />
       </p>
-      <p><b>Overview:</b> Mission-critical POS hardware shift-blocking protocol. Restricts financial actions to dedicated device identifiers, synchronizing cashier shifts via custom Laravel middleware and reactive Flutter state.</p>
+      <p><b>Overview:</b> High-security financial shift-blocking engine for POS terminals. Enforces single-terminal active cashier shifts via hardware device fingerprinting, custom backend middleware, and real-time state sync.</p>
       <p><b>Tech Stack:</b> <code>Laravel 11</code> • <code>Custom Middleware</code> • <code>Redis</code> • <code>Flutter POS</code></p>
     </td>
   </tr>
@@ -163,7 +214,7 @@ current_focus: Distributed POS Architectures, High-Performance Microservices & O
 <!-- ======================================================== -->
 <!-- 🐍 CONTRIBUTION SNAKE GAME & ACTIVITY                    -->
 <!-- ======================================================== -->
-### 🐍 Contribution Activity Stream
+### 🐍 Live Contribution Activity Stream
 
 <p align="center">
   <picture>

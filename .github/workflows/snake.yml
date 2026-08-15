@@ -23,13 +23,13 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate contribution snake SVGs
+      - name: Generate contribution snake SVGs with Custom Theme
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00D2FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+            dist/github-contribution-grid-snake.svg?color_snake=#0E75B6&color_dots=#ebedf0,#b6e3ff,#60a5fa,#2563eb,#1d4ed8
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00D2FF&color_dots=#161B22,#033A59,#04689B,#0E75B6,#00D2FF
 
       - name: Deploy snake SVGs to output branch
         run: |
@@ -37,12 +37,11 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git checkout --orphan output
           git reset
-          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
           mkdir -p .tmp_dist && cp dist/*.svg .tmp_dist/
           git rm -rf --cached . > /dev/null 2>&1 || true
           rm -rf * .github 2>/dev/null || true
           cp .tmp_dist/*.svg .
           rm -rf .tmp_dist
           git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-          git commit -m "chore: auto-generate contribution snake animation [skip ci]" || echo "No changes to commit"
+          git commit -m "chore: auto-generate custom styled contribution snake [skip ci]" || echo "No changes to commit"
           git push -f origin output
